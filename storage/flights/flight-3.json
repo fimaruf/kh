@@ -1,0 +1,48 @@
+{
+  "uuid": "1540663938929-B00E3",
+  "aircraft_name": "KH-MAVIC",
+  "aircraft_sn": "163DF8L00145J2",
+  "batteries": [
+    {
+      "battery_name": "KH_Battery_1",
+      "battery_sn": "0P2AF7L53401UJ"
+    }
+  ],
+  "frames": [
+    {
+      "type": "battery",
+      "timestamp": 1540663938929,
+      "battery_sn": "0P2AF7L53401UJ",
+      "battery_percent": 92.4,
+      "battery_temperature": 60.3
+    },
+    {
+      "type": "battery",
+      "timestamp": 1540663943539,
+      "battery_sn": "0P2AF7L53401UJ",
+      "battery_percent": 90.6,
+      "battery_temperature": 62.1
+    },
+    {
+      "type": "battery",
+      "timestamp": 1540663948829,
+      "battery_sn": "0P2AF7L53401UJ",
+      "battery_percent": 89.1,
+      "battery_temperature": 61.8
+    },
+    {
+      "type": "battery",
+      "timestamp": 1540663955929,
+      "battery_sn": "0P2AF7L53401UJ",
+      "battery_percent": 88.5,
+      "battery_temperature": 60.9
+    },
+    {
+      "type": "battery",
+      "timestamp": 1540663964619,
+      "battery_sn": "0P2AF7L53401UJ",
+      "battery_percent": 87.6,
+      "battery_temperature": 61.2
+    }
+  ]
+}
